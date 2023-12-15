@@ -1,7 +1,7 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
   <HelloWorld msg="Welcome to Your Vue.js App"/>
-  <a href="/returnStr_cubic">JH_cubic api REtest</a><br>
+  <a href="/returnStr_cubic">111JH_cubic api REtest</a><br>
   <a href="/example">예제 api</a>
 </template>
 
