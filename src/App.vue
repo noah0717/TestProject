@@ -2,7 +2,7 @@
   <img alt="Vue logo" src="./assets/logo.png">
   <HelloWorld msg="Welcome to Your Vue.js App"/>
   <a href="/returnStr_cubic">cubic api 테스트</a><br>
-  <a href="/example">예제 api</a>
+  <a href="/example">예제 api 테스트</a>
 </template>
 
 <script>
